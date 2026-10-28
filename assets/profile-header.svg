@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title description">
+  <title id="title">Pablo Camejo — Fullstack Developer</title>
+  <desc id="description">Frontend-focused developer based in Montevideo, Uruguay. React, Next.js and TypeScript.</desc>
+  <rect width="1000" height="210" rx="14" fill="#142733"/>
+  <rect x="0" y="34" width="4" height="142" rx="2" fill="#e4af62"/>
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="48" y="77" font-size="46" font-weight="650" letter-spacing="-1.4" fill="#f5f3ec">Pablo Camejo</text>
+    <text x="50" y="120" font-size="26" font-weight="450" fill="#d5e0e5">Fullstack Developer</text>
+    <text x="51" y="158" font-size="19" font-weight="500" fill="#e4af62">Frontend-focused</text>
+    <text x="950" y="49" text-anchor="end" font-size="11" font-weight="600" letter-spacing="1.6" fill="#b4c5ce">MONTEVIDEO, URUGUAY</text>
+    <text x="950" y="159" text-anchor="end" font-size="12" font-weight="500" letter-spacing=".9" fill="#b4c5ce">REACT / NEXT.JS / TYPESCRIPT</text>
+  </g>
+  <path d="M744 82H950" stroke="#37505e" stroke-width="1"/>
+  <rect x="916" y="98" width="34" height="3" rx="1.5" fill="#e4af62"/>
+</svg>
