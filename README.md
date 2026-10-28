@@ -1,40 +1,27 @@
-# Pablo Camejo
+![Pablo Camejo — Fullstack Developer, frontend-focused](assets/profile-header.svg)
 
-**Fullstack Developer · Frontend-focused**  
 Montevideo, Uruguay · [LinkedIn](https://www.linkedin.com/in/pablo-camejo-rodriguez/)
 
-I build web applications with React, Next.js and TypeScript. My strongest area is frontend: interfaces, architecture, and the shared foundations that help teams build consistently.
+### 🧭 Focus
 
-I also contribute to Node.js and NestJS integrations and caching solutions. I care about keeping business rules independent from implementation details, and making technical decisions easy to understand and verify.
+I build web applications with React, Next.js and TypeScript, with a strong focus on frontend architecture, product interfaces and reusable foundations. I also contribute to Node.js/NestJS integrations and Redis caching.
 
-## What I work on
+### 🧰 Stack
 
-- **Product interfaces:** e-commerce flows, API integrations, SSR/CSR, technical SEO and performance.
-- **Frontend foundations:** multi-theme Design Systems, reusable component libraries, monorepos and Storybook.
-- **Application boundaries:** explicit dependencies, focused tests and automated checks that protect architectural decisions.
+**Frontend** · React, Next.js, TypeScript  
+**Integration** · Node.js, NestJS, Redis  
+**Testing & delivery** · Playwright, Jest, GitHub Actions, pnpm
 
-## Experience
+### 🧪 Featured lab
 
-At **Pormel**, I work on frontend architecture, shared libraries and Design Systems. My work has included migrating applications from Module Federation to Next.js Multi-Zones, as well as contributing to shared NestJS modules and HTTP/cache solutions.
+> **[Dependency Boundaries](https://github.com/Pabloc43/lab-dependency-boundaries)**
+>
+> A working order-flow POC that checks architectural boundaries and circular dependencies through real CI, with interactive diagrams and code-generated evidence.
+>
+> [Source](https://github.com/Pabloc43/lab-dependency-boundaries) · [Live demo](https://pabloc43.github.io/lab-dependency-boundaries/) · [CI](https://github.com/Pabloc43/lab-dependency-boundaries/actions)
 
-Previously, at **Cencosud/Cencommerce**, I developed features for **Paris.cl** with React, Next.js and TypeScript, working on product listings, technical SEO, performance and integrations.
+### 💼 Experience
 
-## Labs
+**Pormel** — Frontend architecture, multi-theme Design Systems and shared libraries; migration from Module Federation to Next.js Multi-Zones.
 
-Small, focused projects where a technical decision can be explored through working code. Each lab lives in a separate repository with the `lab-` prefix.
-
-### [Dependency Boundaries](https://github.com/Pabloc43/lab-dependency-boundaries)
-
-An order-flow POC that turns dependency rules into executable checks. It combines feature-first organization with domain, application and adapter boundaries, and includes isolated examples of forbidden imports and circular dependencies.
-
-- React, TypeScript, Vite and dependency-cruiser.
-- Unit tests, browser tests and real GitHub Actions validation.
-- An interactive walkthrough with architecture diagrams and evidence generated from the code.
-
-[Live demo](https://pabloc43.github.io/lab-dependency-boundaries/) · [Source](https://github.com/Pabloc43/lab-dependency-boundaries) · [CI](https://github.com/Pabloc43/lab-dependency-boundaries/actions)
-
-## Tools I use
-
-**Frontend:** TypeScript, JavaScript, React, Next.js, React Query, Zustand.  
-**Backend & integration:** Node.js, NestJS, Redis.  
-**Testing & delivery:** Jest, Playwright, GitHub Actions, pnpm.
+**Previously, Cencosud/Cencommerce** — E-commerce development for Paris.cl: interfaces, SEO, performance and API integrations.
